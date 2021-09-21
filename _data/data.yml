@@ -52,7 +52,7 @@ education:
       details: |
         Neuroscience-driven machine learning, Computer vision
     - degree: Ph.D. in Electrical Computer Engineering
-      university: Purdue University (Transfer to University of Michigan)
+      university: Purdue University (Transferred to University of Michigan)
       time: 2018 - 2019
       details: |
         Neuroscience-driven machine learning, Computer vision
@@ -185,7 +185,6 @@ publications:
         conference: "2017 International Joint Conference on Neural Networks (IJCNN), 657-664, 2017"
         
       - title: "Achieving synergy in cognitive behavior of humanoids via deep learning of dynamic visuo-motor-attentional coordination"
-        link: "#"
         authors: J Hwang, M Jung, N Madapana, J Kim, M Choi, J Tani
         conference: "2015 IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids)"
         
