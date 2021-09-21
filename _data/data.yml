@@ -134,12 +134,12 @@ publications:
     title: Publications
 
     papers:
-      - title: Retinal Transformation and Recurrent Attention Improve Adversarial Robustness
+      - title: "Retinal Transformation and Recurrent Attention Improve Adversarial Robustness"
         link: "#"
         authors: Minkyu Choi, Yizhen Zhang, Kuan Han, Zhongming Liu
         conference: "AAAI 2022, Under review"
         
-      - title: Explainable Semantic Space by Grounding Language to Vision with Cross-Modal Contrastive Learning
+      - title: "Explainable Semantic Space by Grounding Language to Vision with Cross-Modal Contrastive Learning"
         link: "#"
         authors: Yizhen Zhang, Minkyu Choi, Kuan Han, Zhongming Liu
         conference: "NeurIPS 2021, Under review"
@@ -154,17 +154,17 @@ publications:
         authors: X Wang, KH Lu, M Choi, J Cao, D Jaffey, T Powley, Z Liu
         conference: "The FASEB Journal 34 (S1), 1-1, 2020"
 
-      - title: Generating Goal-directed Visuomotor Plans with Supervised Learning using a Predictive Coding Deep Visuomotor Recurrent Neural Network
+      - title: "Generating Goal-directed Visuomotor Plans with Supervised Learning using a Predictive Coding Deep Visuomotor Recurrent Neural Network"
         link: "#"
         authors: T Matsumoto, M Choi, M Jung, J Tani
         conference: "The Proceedings of the 28th Annual Conference of the Japanese Neural Network Society, 2018"
         
-      - title: Generating Goal-Directed Visuomotor Plans Based on Learning Using a Predictive Coding-type Deep Visuomotor Recurrent Neural Network Model
+      - title: "Generating Goal-Directed Visuomotor Plans Based on Learning Using a Predictive Coding-type Deep Visuomotor Recurrent Neural Network Model"
         link: "#"
         authors: M Choi, T Matsumoto, M Jung, J Tani
         conference: "arXiv preprint arXiv:1803.02578"
         
-      - title: Dealing with large-scale spatio-temporal patterns in imitative interaction between a robot and a human by using the predictive coding framework
+      - title: "Dealing with large-scale spatio-temporal patterns in imitative interaction between a robot and a human by using the predictive coding framework"
         link: "#"
         authors: J Hwang, J Kim, A Ahmadi, M Choi, J Tani
         conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems 50 (5), 1918-1931, 2018"
@@ -179,12 +179,12 @@ publications:
         authors: J Hwang, J Kim, A Ahmadi, M Choi, J Tani
         conference: "2017 Joint IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob), 2017"
         
-      - title: Predictive coding for dynamic vision: Development of functional hierarchy in a multiple spatio-temporal scales RNN model
+      - title: "Predictive coding for dynamic vision: Development of functional hierarchy in a multiple spatio-temporal scales RNN model"
         link: "#"
         authors: M Choi, J Tani
         conference: "2017 International Joint Conference on Neural Networks (IJCNN), 657-664, 2017"
         
-      - title: Achieving" synergy" in cognitive behavior of humanoids via deep learning of dynamic visuo-motor-attentional coordination
+      - title: "Achieving" synergy" in cognitive behavior of humanoids via deep learning of dynamic visuo-motor-attentional coordination"
         link: "#"
         authors: J Hwang, M Jung, N Madapana, J Kim, M Choi, J Tani
         conference: "2015 IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids)"
