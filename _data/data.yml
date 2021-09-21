@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: cminkyu@umich.edu
     phone: 301 265 6425
-    website: minkyu-choi04.github.io/online-cv/ #do not add http://
+    website: minkyu-choi04.github.io/cv/ #do not add http://
     linkedin: cminkyu
     github: minkyu-choi04
     telegram: # add your nickname without '@' sign
@@ -37,13 +37,13 @@ sidebar:
         level: 
 
     interests:
-      - item: Climbing
+      - item: 
         link:
 
-      - item: Snowboarding
+      - item: 
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
@@ -56,9 +56,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ph.D. in Electrical Computer Engineering
+      university: University of Michigan
+      time: 2020 - Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -67,9 +67,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Ph.D. in Electrical Computer Engineering (Transfer to UM)
+      university: Purdue University
+      time: 2018 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
