@@ -44,6 +44,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     - degree: Ph.D. in Electrical Computer Engineering
       university: University of Michigan
@@ -63,6 +64,7 @@ education:
     - degree: B.S. in Electrical Engineering
       university: Yonsei University, Seoul, Korea
       time: 2009 - 2015
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -130,47 +132,83 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
-      - title: The Art of Computer Programming
+      - title: Retinal Transformation and Recurrent Attention Improve Adversarial Robustness
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Minkyu Choi, Yizhen Zhang, Kuan Han, Zhongming Liu
+        conference: "AAAI 2022, Under review"
+        
+      - title: Explainable Semantic Space by Grounding Language to Vision with Cross-Modal Contrastive Learning
+        link: "#"
+        authors: Yizhen Zhang, Minkyu Choi, Kuan Han, Zhongming Liu
+        conference: "NeurIPS 2021, Under review"
+    
+      - title: "Representation learning of resting state fMRI with variational autoencoder"
+        link: "#"
+        authors: JH Kim, Y Zhang, K Han, Z Wen, M Choi, Z Liu
+        conference: NeuroImage 241, 118423, 2021
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "SPARC: Deep Learning for Stomach Segmentation with Contrast Enhanced Magnetic Resonance Imaging of the Gastrointestinal Tract"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: X Wang, KH Lu, M Choi, J Cao, D Jaffey, T Powley, Z Liu
+        conference: "The FASEB Journal 34 (S1), 1-1, 2020"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Generating Goal-directed Visuomotor Plans with Supervised Learning using a Predictive Coding Deep Visuomotor Recurrent Neural Network
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: T Matsumoto, M Choi, M Jung, J Tani
+        conference: "The Proceedings of the 28th Annual Conference of the Japanese Neural Network Society, 2018"
+        
+      - title: Generating Goal-Directed Visuomotor Plans Based on Learning Using a Predictive Coding-type Deep Visuomotor Recurrent Neural Network Model
+        link: "#"
+        authors: M Choi, T Matsumoto, M Jung, J Tani
+        conference: "arXiv preprint arXiv:1803.02578"
+        
+      - title: Dealing with large-scale spatio-temporal patterns in imitative interaction between a robot and a human by using the predictive coding framework
+        link: "#"
+        authors: J Hwang, J Kim, A Ahmadi, M Choi, J Tani
+        conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems 50 (5), 1918-1931, 2018"
+        
+      - title: "Predictive coding for dynamic visual processing: development of functional hierarchy in a multiple spatiotemporal scales RNN model"
+        link: "#"
+        authors: M Choi, J Tani
+        conference: "Neural computation 30 (1), 237-270, 2018"
+        
+      - title: "Predictive coding-based deep dynamic neural network for visuomotor learning"
+        link: "#"
+        authors: J Hwang, J Kim, A Ahmadi, M Choi, J Tani
+        conference: "2017 Joint IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob), 2017"
+        
+      - title: Predictive coding for dynamic vision: Development of functional hierarchy in a multiple spatio-temporal scales RNN model
+        link: "#"
+        authors: M Choi, J Tani
+        conference: "2017 International Joint Conference on Neural Networks (IJCNN), 657-664, 2017"
+        
+      - title: Achieving" synergy" in cognitive behavior of humanoids via deep learning of dynamic visuo-motor-attentional coordination
+        link: "#"
+        authors: J Hwang, M Jung, N Madapana, J Kim, M Choi, J Tani
+        conference: "2015 IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids)"
+        
+
+        
+        
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Pytorch
         level: 98%
 
-      - name: Angular
+      - name: Matlab
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Tensorflow
         level: 95%
 
-      - name: Ruby on Rails
+      - name: C, C++
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
