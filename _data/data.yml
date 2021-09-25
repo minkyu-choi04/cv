@@ -70,10 +70,11 @@ experiences:
         Overt Attention and Retinal Sampling Improves Adversarial Robustness
           - Improved adversarial robustness of DNN by designing recurrent attention, with potential impacts on explaining the robustness of human vision.
           - Designed a retinal transformation to convert regular images to the representations observed in the primate retina. A deep neural network with retinal transformation showed efficient and robust recognition performance. 
+          - Works submitted to AAAI-22 (Under review).
 
         Visually Grounded Language Model Improves Interpretability of Semantic Space
           - Conducted research on visually grounded language models to make language models have better representations, building a basis architecture for multi-modal neural networks. 
-          - Works submitted to AAAI-22 and NeurIPS-21 (Under review).
+          - Works submitted to NeurIPS-21 (Under review).
     - role: Research Assistant
       time: 2018 - 2019
       company: Purdue University, West Lafayette, IN
