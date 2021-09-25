@@ -107,7 +107,7 @@ publications:
     papers:
       - title: "Retinal Transformation and Recurrent Attention Improve Adversarial Robustness"
         link: ""
-        authors: **Minkyu Choi**, Yizhen Zhang, Kuan Han, Zhongming Liu
+        authors: <strong>Minkyu Choi</strong>, Yizhen Zhang, Kuan Han, Zhongming Liu
         conference: "AAAI 2022, Under review"
         
       - title: "Explainable Semantic Space by Grounding Language to Vision with Cross-Modal Contrastive Learning"
