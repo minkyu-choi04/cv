@@ -60,6 +60,38 @@ education:
       university: Yonsei University, Seoul, Korea
       time: 2009 - 2015
 
+
+
+experiences:
+    - role: Research Assistant
+      time: 2020 - Present
+      company: University of Michigan, Ann Arbor, MI
+      details: |
+        Overt Attention and Retinal Sampling Improves Adversarial Robustness
+          - Improved adversarial robustness of DNN by designing recurrent attention, with potential impacts on explaining the robustness of human vision.
+          - Designed a retinal transformation to convert regular images to the representations observed in the primate retina. A deep neural network with retinal transformation showed efficient and robust recognition performance. 
+          - Work submitted to AAAI-22 (Under review).
+        Visually Grounded Language Model Improves Interpretability of Semantic Space
+          - Conducted research on visually grounded language models to make language models have better representations, building a basis architecture for multi-modal neural networks. 
+          - Work submitted to NeurIPS-21 (Under review).
+    - role: Research Assistant
+      time: 2018 - 2019
+      company: Purdue University, West Lafayette, IN
+      details: |
+          - Designed a model capable of predicting saccadic eye movement of humans, using reinforcement learning, possibly explaining principles of human attention. 
+          - Developed an auto-encoder model for medical image, improving subject identification accuracy compared to PCA and ICA methods. 
+    - role: Research Assistant
+      time: 2015 - 2017
+      company: KAIST, Daejeon, Korea
+      details: |
+          - Designed a predictive coding based recurrent network capable of predicting video frames and building meaningful internal representations, showing possibility of predictive coding for computer vision. 
+          - Built and documented robot controller softwares using serial communication to be used for human-robot interaction experiments. 
+
+
+
+
+
+
 publications:
     title: Publications
 
