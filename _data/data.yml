@@ -106,7 +106,7 @@ publications:
 
     papers:
       - title: "Retinal Transformation and Recurrent Attention Improve Adversarial Robustness"
-        #link: ""
+        link: ""
         authors: **Minkyu Choi**, Yizhen Zhang, Kuan Han, Zhongming Liu
         conference: "AAAI 2022, Under review"
         
