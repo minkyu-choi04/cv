@@ -83,6 +83,7 @@ experiences:
 
         Visually Grounded Language Model Improves Interpretability of Semantic Space
           - Conducted research on visually grounded language models to make language models have better representations, building a basis architecture for multi-modal neural networks. 
+          - Extended Bert language model to include visual stream trained together by contrastive loss, showing better clustered and improved interpretability of representations in semantic space. 
           - Accepted, NeurIPS-21.
     - role: Research Assistant
       time: 2018 - 2019
@@ -96,6 +97,7 @@ experiences:
       details: |
           - Designed a predictive coding based recurrent network capable of predicting video frames and building meaningful internal representations, showing possibility of predictive coding for computer vision. 
           - Built and documented robot controller softwares using serial communication to be used for human-robot interaction experiments. 
+          - Designed a model for path planning capable of predicting visuomotor signals, with potential impacts on building internal world models and predicting the results before performing in a real environment. 
 
 
 
