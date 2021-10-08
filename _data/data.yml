@@ -91,6 +91,13 @@ experiences:
       details: |
           - Designed a model capable of predicting saccadic eye movement of humans, using reinforcement learning, possibly explaining principles of human attention. 
           - Developed an auto-encoder model for medical image, improving subject identification accuracy compared to PCA and ICA methods. 
+          - Built object recognition model capable of trade-off accuracy and computational costs, outperforming feed-forward CNNs with less computational costs. 
+    - role: Research Assistant
+      time: 2017 - 2018
+      company: OIST, Okinawa, Japan
+      details: |
+           - Designed Bayesian RNN and applied it to motor learning of robotics, improving learning efficiency with fewer examples. 
+           - Built and maintained CUDA-based machine learning package. 
     - role: Research Assistant
       time: 2015 - 2017
       company: KAIST, Daejeon, Korea
