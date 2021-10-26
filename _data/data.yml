@@ -121,7 +121,7 @@ publications:
         conference: "AAAI 2022, Under review"
         
       - title: "Explainable Semantic Space by Grounding Language to Vision with Cross-Modal Contrastive Learning"
-        link: ""
+        link: "https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27918"
         authors: Yizhen Zhang, <strong>Minkyu Choi</strong>, Kuan Han, Zhongming Liu
         conference: "NeurIPS 2021, Accepted"
     
