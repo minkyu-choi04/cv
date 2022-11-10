@@ -35,13 +35,7 @@ sidebar:
 
 
 
-news:
-    title: News
-    summary: |
-      [September, 2021] A paper is accepted at NeurIPS-21 ([Link](https://papers.nips.cc/paper/2021/file/9a1335ef5ffebb0de9d089c4182e4868-Paper.pdf))
-      
-      [August, 2021] A paper is submitted to AAAI-22 ([Project Page](https://github.com/minkyu-choi04/rs-rnn))
-      
+
       
 
 career-profile:
@@ -72,14 +66,26 @@ education:
 
 
 experiences:
+    - role: Research Intern
+      time: 2022.05 - 2022.08
+      company: Samsung Research America, Mountain View, CA
+      details: |
+        Vertual Humans Projects
+           - Designed a model to model and generate humans' facial and body movements in time-series data. 
+           - Improved the model to produce natural movements without artifacts, so that people interacting with the vertual humans do not realize that they are facing with artificial humans. 
+    
     - role: Research Assistant
       time: 2020 - Present
       company: University of Michigan, Ann Arbor, MI
       details: |
+        Modeling Human Brains: Dorsal attentions
+           - Designed a deep neural network inspired by human brains. 
+           - The models' features are used to encode human brains' BOLD signal from fMRI. 
+           - Compared to the conventional computer vision models, our model better predicts visual dorsal stream and visual attention area. 
+      
         Overt Attention and Retinal Sampling Improves Adversarial Robustness
           - Improved adversarial robustness of DNN by designing recurrent attention, with potential impacts on explaining the robustness of human vision.
           - Designed a retinal transformation to convert regular images to the representations observed in the primate retina. A deep neural network with retinal transformation showed efficient and robust recognition performance. 
-          - Submitted to AAAI-22 (Under review).
 
         Visually Grounded Language Model Improves Interpretability of Semantic Space
           - Conducted research on visually grounded language models to make language models have better representations, building a basis architecture for multi-modal neural networks. 
@@ -115,10 +121,13 @@ publications:
     title: Publications
 
     papers:
+      - title: "Surface-based Characterization of Gastric Anatomy and Motility using Magnetic Resonance Imaging and Neural Ordinary Differential Equation"
+        link: "https://www.biorxiv.org/content/10.1101/2022.10.17.512633v1.abstract"
+        authors: Xiaokai Wang, Jiayue Cao, Kuan Han, <strong>Minkyu Choi</strong>, Yushi She, Ulrich Scheven, Recep Avci, Peng Du, Leo K. Cheng, Madeleine R Di Natale, John B Furness, Zhongming Liu
+        
       - title: "Retinal Transformation and Recurrent Attention Improve Adversarial Robustness"
-        link: "https://github.com/minkyu-choi04/rs-rnn"
+        link: "https://arxiv.org/abs/2206.07282"
         authors: <strong>Minkyu Choi</strong>, Yizhen Zhang, Kuan Han, Zhongming Liu
-        conference: "AAAI 2022, Under review"
         
       - title: "Explainable Semantic Space by Grounding Language to Vision with Cross-Modal Contrastive Learning"
         link: "https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27918"
