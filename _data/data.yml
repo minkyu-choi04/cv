@@ -44,7 +44,7 @@ news:
 career-profile:
     title: Career Profile
     summary: |
-      I am an experienced Ph.D. candidate and looking for a research internship for summer 2022. 
+      I am an experienced Ph.D. candidate and looking for a research internship for summer 2023. 
 
 education:
     - degree: Ph.D. in Electrical Computer Engineering
@@ -74,8 +74,9 @@ experiences:
       company: Samsung Research America, Mountain View, CA
       details: |
         Vertual Humans Projects
-           - Designed a model to model and generate humans' facial and body movements in time-series data. 
+           - Designed a deep generative model to model and generate humans' facial and body movements in time-series data. 
            - Improved the model to produce natural movements without artifacts, so that people interacting with the vertual humans do not realize that they are facing with artificial humans. 
+           - Patent filing on the generative pipeline in progress. 
     
     - role: Research Assistant
       time: 2020 - Present
