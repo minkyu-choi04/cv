@@ -24,7 +24,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1gZrCboqZvjghIiDtaf2O4fKLPEzw8D7S/view?usp=sharing
+    pdf: https://drive.google.com/file/d/19jWcR3c9YLX95JIu0Hl940igl4vF0xSR/view?usp=sharing
 
     languages:
       - idiom: English
@@ -44,14 +44,15 @@ news:
 career-profile:
     title: Career Profile
     summary: |
-      I am an experienced Ph.D. candidate and looking for a research internship for summer 2023. 
+      Ph.D. candidate in Electrical & Computer Engineering with a focus on Artificial Intelligence / Machine Learning, offering a strong research background and publications in leading conferences and journals. Eager to contribute to innovative data science and machine learning projects within a dynamic team.
+
 
 education:
     - degree: Ph.D. in Electrical Computer Engineering
       university: University of Michigan, Ann Arbot, MI
       time: 2020 - Present
       details: |
-        - Neuroscience-driven machine learning, Computer vision
+        - Neuroscience-driven machine learning, Computer vision, Natural Language Processing
     - degree: Ph.D. in Electrical Computer Engineering
       university: Purdue University, West Lafayette, IN (Transferred to University of Michigan)
       time: 2018 - 2019
@@ -74,7 +75,7 @@ experiences:
       company: Samsung Research America, Mountain View, CA
       details: |
         Vertual Humans Projects
-           - Designed a deep generative model to model and generate humans' facial and body movements in time-series data. 
+           - Developed a deep generative model for human facial expression, producing natural & realistic facial images. 
            - Improved the model to produce natural movements without artifacts, so that people interacting with the vertual humans do not realize that they are facing with artificial humans. 
            - Patent filing on the generative pipeline in progress. 
     
@@ -82,25 +83,19 @@ experiences:
       time: 2020 - Present
       company: University of Michigan, Ann Arbor, MI
       details: |
-        Modeling Human Brains: Dorsal attentions
-           - Designed a deep neural network inspired by human brains. 
-           - The models' features are used to encode human brains' BOLD signal from fMRI. 
-           - Compared to the conventional computer vision models, our model better predicts visual dorsal stream and visual attention area. 
-      
-        Overt Attention and Retinal Sampling Improves Adversarial Robustness
-          - Improved adversarial robustness of DNN by designing recurrent attention, with potential impacts on explaining the robustness of human vision.
-          - Designed a retinal transformation to convert regular images to the representations observed in the primate retina. A deep neural network with retinal transformation showed efficient and robust recognition performance. 
-
-        Visually Grounded Language Model Improves Interpretability of Semantic Space
-          - Conducted research on visually grounded language models to make language models have better representations, building a basis architecture for multi-modal neural networks. 
-          - Extended Bert language model to include visual stream trained together by contrastive loss, showing better clustered and improved interpretability of representations in semantic space. 
-          - Accepted, NeurIPS-21.
+        Proposed multi-modal model for brain/body signals, enhancing the accuracy of individual trait predictions.
+        Engineered novel DNN predicting human brain responses, advancing the understanding of neural mechanisms.
+        Crafted a Vision-Language multimodal model to facilitate advanced data interpretation and understanding, showcasing innovation in multimodal data analysis.
+        Introduced a computer vision model, significantly improving efficiency and robustness in data processing.
+        Designed a saliency prediction model that is both lightweight and highly accurate, contributing to advancements in visual attention prediction.
+        Established a large-scale foundational model for fMRI data, providing a framework for neuroimaging analysis.
+        
     - role: Research Assistant
       time: 2018 - 2019
       company: Purdue University, West Lafayette, IN
       details: |
           - Designed a model capable of predicting saccadic eye movement of humans, using reinforcement learning, possibly explaining principles of human attention. 
-          - Developed an auto-encoder model for medical image, improving subject identification accuracy compared to PCA and ICA methods. 
+          - Developed an variational auto-encoder model for medical image, improving subject identification accuracy.
           - Built object recognition model capable of trade-off accuracy and computational costs, outperforming feed-forward CNNs with less computational costs. 
     - role: Research Assistant
       time: 2017 - 2018
@@ -122,12 +117,13 @@ experiences:
 
 
 publications:
-    title: Publications
+    title: Selected Publications
 
     papers:
-      - title: "Surface-based Characterization of Gastric Anatomy and Motility using Magnetic Resonance Imaging and Neural Ordinary Differential Equation"
-        link: "https://www.biorxiv.org/content/10.1101/2022.10.17.512633v1.abstract"
-        authors: Xiaokai Wang, Jiayue Cao, Kuan Han, <strong>Minkyu Choi</strong>, Yushi She, Ulrich Scheven, Recep Avci, Peng Du, Leo K. Cheng, Madeleine R Di Natale, John B Furness, Zhongming Liu
+      - title: "A Dual-Stream Neural Network Explains the Functional Segregation of Dorsal and Ventral Visual Pathways in Human Brains"
+        link: "https://github.com/minkyu-choi04/DualStreamBrains"
+        authors: <strong>Minkyu Choi</strong>, Kuan Han, Xiaokai Wang, Yizhen Zhang, Zhongming Liu
+        conference: "NeurIPS 2023, Accepted"
         
       - title: "Retinal Transformation and Recurrent Attention Improve Adversarial Robustness"
         link: "https://arxiv.org/abs/2206.07282"
@@ -136,52 +132,19 @@ publications:
       - title: "Explainable Semantic Space by Grounding Language to Vision with Cross-Modal Contrastive Learning"
         link: "https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27918"
         authors: Yizhen Zhang, <strong>Minkyu Choi</strong>, Kuan Han, Zhongming Liu
-        conference: "NeurIPS 2021, Accepted"
+        conference: "NeurIPS 2021"
     
-      - title: "Representation learning of resting state fMRI with variational autoencoder"
-        link: "https://www.sciencedirect.com/science/article/pii/S1053811921006984"
-        authors: JH Kim, Y Zhang, K Han, Z Wen, <strong>M Choi</strong>, Z Liu
-        conference: NeuroImage 241, 118423, 2021
-
-      - title: "SPARC: Deep Learning for Stomach Segmentation with Contrast Enhanced Magnetic Resonance Imaging of the Gastrointestinal Tract"
-        link: "https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2020.34.s1.03483"
-        authors: X Wang, KH Lu, <strong>M Choi</strong>, J Cao, D Jaffey, T Powley, Z Liu
-        conference: "The FASEB Journal 34 (S1), 1-1, 2020"
-
-      - title: "Generating Goal-directed Visuomotor Plans with Supervised Learning using a Predictive Coding Deep Visuomotor Recurrent Neural Network"
-        link: "https://oist.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=1402&item_no=1&page_id=76&block_id=178"
-        authors: T Matsumoto, <strong>M Choi</strong>, M Jung, J Tani
-        conference: "The Proceedings of the 28th Annual Conference of the Japanese Neural Network Society, 2018"
-        
-      - title: "Generating Goal-Directed Visuomotor Plans Based on Learning Using a Predictive Coding-type Deep Visuomotor Recurrent Neural Network Model"
-        link: "https://arxiv.org/abs/1803.02578"
-        authors: <strong>M Choi</strong>, T Matsumoto, M Jung, J Tani
-        conference: "arXiv preprint arXiv:1803.02578"
-        
-      - title: "Dealing with large-scale spatio-temporal patterns in imitative interaction between a robot and a human by using the predictive coding framework"
-        link: "https://ieeexplore.ieee.org/abstract/document/8276651"
-        authors: J Hwang, J Kim, A Ahmadi, <strong>M Choi</strong>, J Tani
-        conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems 50 (5), 1918-1931, 2018"
-        
       - title: "Predictive coding for dynamic visual processing: development of functional hierarchy in a multiple spatiotemporal scales RNN model"
         link: "https://direct.mit.edu/neco/article/30/1/237/8330/Predictive-Coding-for-Dynamic-Visual-Processing"
         authors: <strong>M Choi</strong>, J Tani
         conference: "Neural computation 30 (1), 237-270, 2018"
-        
-      - title: "Predictive coding-based deep dynamic neural network for visuomotor learning"
-        link: "https://ieeexplore.ieee.org/abstract/document/8329798"
-        authors: J Hwang, J Kim, A Ahmadi, <strong>M Choi</strong>, J Tani
-        conference: "2017 Joint IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob), 2017"
         
       - title: "Predictive coding for dynamic vision: Development of functional hierarchy in a multiple spatio-temporal scales RNN model"
         link: "https://ieeexplore.ieee.org/abstract/document/7965915"
         authors: <strong>M Choi</strong>, J Tani
         conference: "2017 International Joint Conference on Neural Networks (IJCNN), 657-664, 2017"
         
-      - title: "Achieving synergy in cognitive behavior of humanoids via deep learning of dynamic visuo-motor-attentional coordination"
-        link: "https://ieeexplore.ieee.org/abstract/document/7363448"
-        authors: J Hwang, M Jung, N Madapana, J Kim, <strong>M Choi</strong>, J Tani
-        conference: "2015 IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids)"
+      
         
 
         
