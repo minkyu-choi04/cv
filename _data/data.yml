@@ -83,12 +83,12 @@ experiences:
       time: 2020 - Present
       company: University of Michigan, Ann Arbor, MI
       details: |
-        Proposed multi-modal model for brain/body signals, enhancing the accuracy of individual trait predictions.
-        Engineered novel DNN predicting human brain responses, advancing the understanding of neural mechanisms.
-        Crafted a Vision-Language multimodal model to facilitate advanced data interpretation and understanding, showcasing innovation in multimodal data analysis.
-        Introduced a computer vision model, significantly improving efficiency and robustness in data processing.
-        Designed a saliency prediction model that is both lightweight and highly accurate, contributing to advancements in visual attention prediction.
-        Established a large-scale foundational model for fMRI data, providing a framework for neuroimaging analysis.
+        - Proposed multi-modal model for brain/body signals, enhancing the accuracy of individual trait predictions.
+        - Engineered novel DNN predicting human brain responses, advancing the understanding of neural mechanisms.
+        - Crafted a Vision-Language multimodal model to facilitate advanced data interpretation and understanding, showcasing innovation in multimodal data analysis.
+        - Introduced a computer vision model, significantly improving efficiency and robustness in data processing.
+        - Designed a saliency prediction model that is both lightweight and highly accurate, contributing to advancements in visual attention prediction.
+        - Established a large-scale foundational model for fMRI data, providing a framework for neuroimaging analysis.
         
     - role: Research Assistant
       time: 2018 - 2019
