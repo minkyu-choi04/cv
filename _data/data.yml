@@ -163,9 +163,6 @@ skills:
       - name: Matlab
         level: 98%
 
-      - name: Tensorflow
-        level: 95%
-
       - name: C, C++
         level: 85%
 
