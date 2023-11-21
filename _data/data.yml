@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Minkyu Choi
     tagline: Ph.D. Candidate
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile1.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: cminkyu@umich.edu
@@ -24,7 +24,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/19jWcR3c9YLX95JIu0Hl940igl4vF0xSR/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1dLINZRgTDCcM0t4IlC_UtWJ0Hv0nNC8s/view?usp=sharing
 
     languages:
       - idiom: English
