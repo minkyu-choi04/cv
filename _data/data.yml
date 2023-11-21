@@ -44,8 +44,8 @@ news:
 career-profile:
     title: Career Profile
     summary: |
-      I am a <strong>machine learning researcher</strong> and <strong>computational neuroscientist</strong> focused on enhancing AI to reflect and learn from human intelligence.
-      Hi, I'm Minkyu. I am currently a Ph.D. student in ECE at the Univerisity of Michigan. I specialize in machine learning and computational neuroscience. My research aims to enhance machine intelligence, particularly in vision and language understanding, to mirror human efficiency and intelligence.
+      Hi, I'm Minkyu. I am currently a Ph.D. student in ECE at the Univerisity of Michigan. I specialize in <strong>machine learning</strong> and <strong>computational neuroscience</strong>. My research aims to enhance machine intelligence, particularly in vision and language understanding, to mirror human efficiency and intelligence.
+      
       My detailed research areas include,
         - Efficient and robust computer vision systems
         - Integrated learning of multimodal language and vision
