@@ -85,7 +85,7 @@ experiences:
       time: 2022.05 - 2022.08
       company: Samsung Research America, Mountain View, CA
       details: |
-        - Developed AI models for human motion and facial expression synthesis.
+        - <strong>Developed AI models for human motion and facial expression synthesis.</strong>
             - Developed a deep generative model for human motion synthesis, achieving a 15% improvement in prediction accuracy, resulting in the production of natural human motions, indistinguishable from real human movements. 
             - Reduced computational costs by 10%, for deep generative models, achieving low latency for real-time ML services. 
 
@@ -132,17 +132,6 @@ publications:
 
 skills:
     title: Skills
+    
         - Python, Pytorch, Matlab, C++, git, docker
-    toolset:
-      - name: Python 
-        level: 98%
-
-      - name: Pytorch
-        level: 98%
-
-      - name: Matlab
-        level: 98%
-
-      - name: C, C++
-        level: 85%
 
