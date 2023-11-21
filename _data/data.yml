@@ -68,50 +68,27 @@ experiences:
       time: 2022.05 - 2022.08
       company: Samsung Research America, Mountain View, CA
       details: |
-        Vertual Humans Projects
-           - Developed a deep generative model for human facial expression, producing natural & realistic facial images. 
-           - Improved the model to produce natural movements without artifacts, so that people interacting with the vertual humans do not realize that they are facing with artificial humans. 
-           - Patent filing on the generative pipeline in progress. 
+        Developed AI models for human motion and facial expression synthesis.
+            - Developed a deep generative model for human motion synthesis, achieving a 15% improvement in prediction accuracy, resulting in the production of natural human motions, indistinguishable from real human movements. 
+            - Reduced computational costs by 10%, for deep generative models, achieving low latency for real-time ML services. 
+
     
     - role: Research Assistant
       time: 2020 - Present
       company: University of Michigan, Ann Arbor, MI
       details: |
-        - Implemented algorithms and published papers in venues like NeurIPS, addressing challenges in AI/ML. 
-        - Managed and maintained scientific computing infrastructure.
+        - <strong>Implemented algorithms and published papers in venues like NeurIPS, addressing challenges in AI/ML. </strong>
+        - <strong>Managed and maintained scientific computing infrastructure.
             - Maintained over 99.5% uptime for a complex network of over 10 data and GPU servers, supporting machine learning and scientific computing environments, using shell script, docker and git. 
-        - Focused on developing safer & low-cost computer vision models.
+        - <strong>Focused on developing safer & low-cost computer vision models.</strong>
             - Improved computational efficiency of deep neural networks by 30%, reducing inference costs of ML services.
             - Enhanced the security of computer vision models by 12% through innovative neural network designs. 
-        - Led projects on improving deep learning models processing multimodal inputs.
+        - <strong>Led projects on improving deep learning models processing multimodal inputs.</strong>
             - Boosted text/image search accuracy by 15%, providing enhanced search experiences by designing a novel AI model.
             - Elevated emotion prediction accuracy by 22%, by designing a foundational model for brain / body signals, accurately predicting emotional states of over 1,000 patients, applicable to fitness trackers, using Pytorch and Docker.
-        - Led a research initiative focused on understanding human visual systems, using deep neural networks.
+        - <strong>Led a research initiative focused on understanding human visual systems, using deep neural networks.</strong>
             - Developed a deep learning model that enhanced brain response prediction accuracy by 30%, significantly advancing knowledge in visual processing from retina to visual cortex. 
             - Boosted human visual attention prediction accuracy in a computer vision model by 14% by integrating retinal structure analysis, leading to more accurate eye-tracking prediction for AR/VR applications.
-
-        
-    - role: Research Assistant
-      time: 2018 - 2019
-      company: Purdue University, West Lafayette, IN
-      details: |
-          - Designed a model capable of predicting saccadic eye movement of humans, using reinforcement learning, possibly explaining principles of human attention. 
-          - Developed an variational auto-encoder model for medical image, improving subject identification accuracy.
-          - Built object recognition model capable of trade-off accuracy and computational costs, outperforming feed-forward CNNs with less computational costs. 
-    - role: Research Assistant
-      time: 2017 - 2018
-      company: OIST, Okinawa, Japan
-      details: |
-           - Designed Bayesian RNN and applied it to motor learning of robotics, improving learning efficiency with fewer examples. 
-           - Built and maintained CUDA-based machine learning package. 
-    - role: Research Assistant
-      time: 2015 - 2017
-      company: KAIST, Daejeon, Korea
-      details: |
-          - Designed a predictive coding based recurrent network capable of predicting video frames and building meaningful internal representations, showing possibility of predictive coding for computer vision. 
-          - Built and documented robot controller softwares using serial communication to be used for human-robot interaction experiments. 
-          - Designed a model for path planning capable of predicting visuomotor signals, with potential impacts on building internal world models and predicting the results before performing in a real environment. 
-
 
 
 
@@ -152,7 +129,7 @@ publications:
         
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: Python 
