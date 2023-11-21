@@ -38,19 +38,19 @@ sidebar:
 news:
     title: News
     summary: |
-      [New Publication] A paper is accepted at <strong>NeurIPS-23</strong>. Check out the publication section below!
+      [<strong>New Publication</strong>] A paper is accepted at <strong>NeurIPS-23</strong>. Check out the publication section below!
       
 
 career-profile:
     title: Career Profile
     summary: |
-      I am a <strong>machine learning researcher and computational neuroscientist</strong> focused on enhancing AI to reflect and learn from human intelligence.
+      I am a <strong>machine learning researcher</strong> and <strong>computational neuroscientist</strong> focused on enhancing AI to reflect and learn from human intelligence.
 
 education:
     - degree: Ph.D. candidate in Electrical Computer Engineering
       university: University of Michigan, Ann Arbot, MI
       time: 2018 - Present
-      details: Specialized in computational Neuroscience and machine learning
+      details: |
         - Specialized in computational Neuroscience and machine learning
     - degree: M.S. in Electrical Engineering
       university: KAIST, Daejeon, Korea
