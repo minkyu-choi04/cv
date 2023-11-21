@@ -38,26 +38,20 @@ sidebar:
 news:
     title: News
     summary: |
-      [news] 
+      [New Publication] A paper is accepted at NeurIPS-23. Check out the publication section below!
       
 
 career-profile:
     title: Career Profile
     summary: |
-      Ph.D. candidate in Electrical & Computer Engineering with a focus on Artificial Intelligence / Machine Learning, offering a strong research background and publications in leading conferences and journals. Eager to contribute to innovative data science and machine learning projects within a dynamic team.
-
+      I am a machine learning researcher and computational neuroscientist focused on enhancing AI to reflect and learn from human intelligence.
 
 education:
     - degree: Ph.D. in Electrical Computer Engineering
       university: University of Michigan, Ann Arbot, MI
-      time: 2020 - Present
+      time: 2018 - Present
       details: |
-        - Neuroscience-driven machine learning, Computer vision, Natural Language Processing
-    - degree: Ph.D. in Electrical Computer Engineering
-      university: Purdue University, West Lafayette, IN (Transferred to University of Michigan)
-      time: 2018 - 2019
-      details: |
-        - Neuroscience-driven machine learning, Computer vision
+        - Specialized in computational Neuroscience and machine learning
     - degree: M.S. in Electrical Engineering
       university: KAIST, Daejeon, Korea
       time: 2015 - 2017
