@@ -47,7 +47,7 @@ career-profile:
       I am a machine learning researcher and computational neuroscientist focused on enhancing AI to reflect and learn from human intelligence.
 
 education:
-    - degree: Ph.D. in Electrical Computer Engineering
+    - degree: Ph.D. candidate in Electrical Computer Engineering
       university: University of Michigan, Ann Arbot, MI
       time: 2018 - Present
       details: |
@@ -77,12 +77,19 @@ experiences:
       time: 2020 - Present
       company: University of Michigan, Ann Arbor, MI
       details: |
-        - Proposed multi-modal model for brain/body signals, enhancing the accuracy of individual trait predictions.
-        - Engineered novel DNN predicting human brain responses, advancing the understanding of neural mechanisms.
-        - Crafted a Vision-Language multimodal model to facilitate advanced data interpretation and understanding, showcasing innovation in multimodal data analysis.
-        - Introduced a computer vision model, significantly improving efficiency and robustness in data processing.
-        - Designed a saliency prediction model that is both lightweight and highly accurate, contributing to advancements in visual attention prediction.
-        - Established a large-scale foundational model for fMRI data, providing a framework for neuroimaging analysis.
+        Implemented algorithms and published papers in venues like NeurIPS, addressing challenges in AI/ML. 
+        Managed and maintained scientific computing infrastructure.
+            - Maintained over 99.5% uptime for a complex network of over 10 data and GPU servers, supporting machine learning and scientific computing environments, using shell script, docker and git. 
+        Focused on developing safer & low-cost computer vision models.
+            - Improved computational efficiency of deep neural networks by 30%, reducing inference costs of ML services.
+            - Enhanced the security of computer vision models by 12% through innovative neural network designs. 
+        Led projects on improving deep learning models processing multimodal inputs.
+            - Boosted text/image search accuracy by 15%, providing enhanced search experiences by designing a novel AI model.
+            - Elevated emotion prediction accuracy by 22%, by designing a foundational model for brain / body signals, accurately predicting emotional states of over 1,000 patients, applicable to fitness trackers, using Pytorch and Docker.
+        Led a research initiative focused on understanding human visual systems, using deep neural networks.
+            - Developed a deep learning model that enhanced brain response prediction accuracy by 30%, significantly advancing knowledge in visual processing from retina to visual cortex. 
+            - Boosted human visual attention prediction accuracy in a computer vision model by 14% by integrating retinal structure analysis, leading to more accurate eye-tracking prediction for AR/VR applications.
+
         
     - role: Research Assistant
       time: 2018 - 2019
