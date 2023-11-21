@@ -64,15 +64,6 @@ education:
 
 
 experiences:
-    - role: Research Intern
-      time: 2022.05 - 2022.08
-      company: Samsung Research America, Mountain View, CA
-      details: |
-        - Developed AI models for human motion and facial expression synthesis.
-            - Developed a deep generative model for human motion synthesis, achieving a 15% improvement in prediction accuracy, resulting in the production of natural human motions, indistinguishable from real human movements. 
-            - Reduced computational costs by 10%, for deep generative models, achieving low latency for real-time ML services. 
-
-    
     - role: Research Assistant
       time: 2020 - Present
       company: University of Michigan, Ann Arbor, MI
@@ -89,7 +80,17 @@ experiences:
         - <strong>Led a research initiative focused on understanding human visual systems, using deep neural networks.</strong>
             - Developed a deep learning model that enhanced brain response prediction accuracy by 30%, significantly advancing knowledge in visual processing from retina to visual cortex. 
             - Boosted human visual attention prediction accuracy in a computer vision model by 14% by integrating retinal structure analysis, leading to more accurate eye-tracking prediction for AR/VR applications.
+    
+    - role: Research Intern
+      time: 2022.05 - 2022.08
+      company: Samsung Research America, Mountain View, CA
+      details: |
+        - Developed AI models for human motion and facial expression synthesis.
+            - Developed a deep generative model for human motion synthesis, achieving a 15% improvement in prediction accuracy, resulting in the production of natural human motions, indistinguishable from real human movements. 
+            - Reduced computational costs by 10%, for deep generative models, achieving low latency for real-time ML services. 
 
+    
+    
 
 
 
